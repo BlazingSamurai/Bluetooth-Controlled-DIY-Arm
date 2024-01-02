@@ -5,3 +5,7 @@ Robotic Arms are a fascination to every Engineer out there. As fancy as they sou
 To make this DIY Arm all one needs is a basic understanding of Arduino, Servos and HC-05. Even without these one can start with this project and learn in the process.
 
 The exact DIY guide will be updated soon.
+
+[![Watch the video](https://img.youtube.com/vi/fLdHws00by8/0.jpg)](https://youtube.com/shorts/fLdHws00by8)
+
+[![Watch the video](https://img.youtube.com/vi/s1b2UvDABFU/0.jpg)](https://youtube.com/shorts/s1b2UvDABFU)
